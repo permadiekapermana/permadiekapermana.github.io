@@ -265,6 +265,7 @@ section {
 
 #about {
   position: relative;
+  background-color: #f1f5f9;
 }
 
 .about-containers {
@@ -354,6 +355,7 @@ section {
 #experience {
   position: relative;
   height: fit-content;
+  background-color: #f1f5f9;
 }
 
 .experience-sub-title {
